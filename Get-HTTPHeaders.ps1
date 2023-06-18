@@ -2,7 +2,7 @@
 ## Output file will be saved to user's Documents folder. Adjust $OutputPath if you want to change this
 
 $URL = "" ## Provide the http(s) URL. ex: https://google.com
-#$URLFilePath = "" ## The full path to the .txt file of URLs. ex: C:\Users\admin\Documents\allurls.txt
+$URLFilePath = "" ## The full path to the .txt file of URLs. ex: C:\Users\admin\Documents\allurls.txt
 
 
 
