@@ -12,7 +12,9 @@ Current response headers formatted to .csv:
 
 **Vary**
 
-**Last_Modified	WWW_Authenticate**
+**Last_Modified**
+
+**WWW_Authenticate**
 
 **Expires	Content_Length**
 
@@ -36,4 +38,9 @@ Current response headers formatted to .csv:
 
 **URL**
 
+**X-Real-IP**
+
+**X-Forwarded-Server**
+
+**Max-Forwards**
 
