@@ -3,7 +3,7 @@ Powershell script that grabs HTTP Response headers from a single or list of URLs
 
 All of the Response Headers obtained will be exported to a .csv file in the user's Documents folder
 
-HOW TO USE:
+**HOW TO USE:**
 - Open script in powershell ISE
 - Change the $URL variable to a valid http(s) URL and execute script
 
