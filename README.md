@@ -13,7 +13,7 @@ OR
 
   
 
-**Example output:**
+Example output:
 ![image](https://github.com/paulpierce34/Get-HTTPHeaders/assets/33561650/d168767f-54e9-4dfa-9243-a9f503deac03)
 
 **Current response headers formatted to .csv:**
