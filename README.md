@@ -8,7 +8,7 @@ Example output:
 
 Current response headers formatted to .csv:
 
-Date	
+**Date	
 
 Vary	
 
@@ -34,6 +34,6 @@ Server
 
 Content_Type	
 
-URL
+URL**
 
 
