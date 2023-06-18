@@ -1,6 +1,7 @@
 ﻿## The purpose of this script is to grab all the HTTP response headers from a single URL or list of URLs and export to csv
 ## Output file will be saved to user's Documents folder. Adjust $OutputPath if you want to change this
 
+## Provide an individual URL or a list of URLs
 $URL = "" ## Provide the http(s) URL. ex: https://google.com
 $URLFilePath = "" ## The full path to the .txt file of URLs. ex: C:\Users\admin\Documents\allurls.txt
 
