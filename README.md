@@ -10,29 +10,29 @@ Current response headers formatted to .csv:
 
 **Date**
 
-**Vary	**
+**Vary**
 
-**Last_Modified	WWW_Authenticate	**
+**Last_Modified	WWW_Authenticate**
 
-**Expires	Content_Length	**
+**Expires	Content_Length**
 
-**Cache_Control	Accept_Ranges	**
+**Cache_Control	Accept_Ranges**
 
-**X_Content_Type_Options	**
+**X_Content_Type_Options**
 
-**Status_Code	**
+**Status_Code**
 
-**Strict_Transport_Security	**
+**Strict_Transport_Security**
 
-**Connection	**
+**Connection**
 
-**Server_Timing	ETag	**
+**Server_Timing	ETag**
 
-**Pragma	**
+**Pragma**
 
-**Server	**
+**Server**
 
-**Content_Type	**
+**Content_Type**
 
 **URL**
 
