@@ -23,4 +23,3 @@ Content_Type
 URL
 
 
-Please recommend more headers to look for while I figure out a dynamic way to properly format an exported CSV with all response headers!
